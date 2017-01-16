@@ -44,7 +44,7 @@ Note:
 
 ### CI
 
-Notes:
+Note:
 1. Make sure CI is green. ALWAYS.
 2. Is the pipeline efficient?
 
@@ -52,7 +52,7 @@ Notes:
 
 ### Operations
 
-Notes:
+Note:
 1. Morning run (health check)
 
 ---
@@ -131,7 +131,7 @@ Note:
 
 ## LL Meeting
 
-Notes:
+Note:
 1. Health check
 2. Discuss backlog (flow)
 3. Discuss the team (people)
@@ -141,7 +141,7 @@ Notes:
 
 ## Pre IPM
 
-Notes:
+Note:
 1. Groom that backlog!
 2. Healthy number of chores
 
