@@ -44,13 +44,16 @@ Note:
 
 ### CI
 
+Notes:
+1. Make sure CI is green. ALWAYS.
+2. Is the pipeline efficient?
+
 ---
 
 ### Operations
 
+Notes:
 1. Morning run (health check)
-2. Make sure it's green. ALWAYS
-3. Is the pipeline efficient?
 
 ---
 
@@ -67,7 +70,7 @@ Record the things you need to make decisions
 ### Team strength
 
 Note: 
-1. If your team does not have the skills then shout ot your LL
+1. If your team does not have the skills then shout at your LL
 
 ---
 
@@ -126,15 +129,25 @@ Note:
 
 ---
 
-### LL Meeting
+## LL Meeting
+
+Notes:
+1. Health check
+2. Discuss backlog (flow)
+3. Discuss the team (people)
+4. Discuss the code (technical)
 
 ---
 
-### Pre IPM
+## Pre IPM
+
+Notes:
+1. Groom that backlog!
+2. Healthy number of chores
 
 ---
 
-### IPM, Retro, Inceptions
+## IPM, Retro, Inceptions
 
 ---
 
